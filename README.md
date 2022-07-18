@@ -1,4 +1,4 @@
-<h1> a CyberSec Reasearcher And Linux User :| </h1>
+<h1> a CyberSec Reasearcher And Linux Lover :) </h1>
 
 - contact me :
   - lackofleak@gmail.com
