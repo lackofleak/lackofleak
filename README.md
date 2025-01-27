@@ -2,7 +2,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lackofleak&theme=transparent)
 ![](https://github-readme-stats.vercel.app/api?username=lackofleak&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lackofleak&layout=donut&langs_count=4&theme=transparent&hide_border=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lackofleak&layout=donut&theme=transparent&hide_border=true&hide_title=true)
 
 ----------------------------------------------------------------------------------------
 - Telegram :
